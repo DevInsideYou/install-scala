@@ -9,7 +9,7 @@ fi
 FILE="scala-${VERSION}.deb"
 
 # install Scala
-wget -q "https://scala-lang.org/files/archive/$FILE"
+wget "https://scala-lang.org/files/archive/$FILE"
 sudo dpkg -i $FILE
 
 # remove debian package
