@@ -11,3 +11,6 @@ sudo chmod +x install-scala.sh && bash -x install-scala.sh
 wget -q https://raw.githubusercontent.com/DevInsideYou/install-scala/master/install-scala.sh
 sudo chmod +x install-scala.sh && bash -x install-scala.sh 2.13.0
 ```
+
+### Runtime Dependencies:
+* [Java](https://github.com/DevInsideYou/install-java)
