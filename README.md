@@ -5,7 +5,7 @@ wget -q https://raw.githubusercontent.com/DevInsideYou/install-scala/master/inst
 sudo chmod +x install-scala.sh && bash -x install-scala.sh
 ```
 
-# Installs [Scala](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/) with version set manually to 2.13.0
+# Installs [Scala](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/) with version set manually to [2.13.0](https://www.scala-lang.org/download/all.html)
 
 ```bash
 wget -q https://raw.githubusercontent.com/DevInsideYou/install-scala/master/install-scala.sh
