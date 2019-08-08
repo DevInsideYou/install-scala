@@ -15,5 +15,9 @@ sudo dpkg -i $FILE
 # remove debian package
 rm $FILE
 
+echo
+
+echo '"scala" is now on the path'
+
 # remove yourself
 rm $0
