@@ -27,4 +27,4 @@ echo
 echo '"scala" is now on the path'
 
 # remove yourself
-# rm $0
+rm $0
