@@ -5,7 +5,7 @@ wget -q https://script.install.devinsideyou.com/scala
 sudo chmod +x scala && ./scala
 ```
 
-# Installs [Scala](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/) with version set manually to [2.13.0](https://www.scala-lang.org/download/all.html)
+# Specifies [version](https://www.scala-lang.org/download/all.html) (optional)
 
 ```bash
 wget -q wget -q https://script.install.devinsideyou.com/scala
