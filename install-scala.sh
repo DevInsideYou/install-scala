@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 if [ "$1" == "" ]; then
     VERSION="2.13.1"
 else
