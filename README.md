@@ -1,4 +1,4 @@
-# Installs [Scala 2.13.0](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [Scala 2.13.1](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 wget -q https://script.install.devinsideyou.com/scala
@@ -9,7 +9,7 @@ sudo chmod +x scala && ./scala
 
 ```bash
 wget -q wget -q https://script.install.devinsideyou.com/scala
-sudo chmod +x scala && ./scala 2.13.0
+sudo chmod +x scala && ./scala 2.13.1
 ```
 
 ### Runtime Dependencies:
