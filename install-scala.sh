@@ -3,7 +3,7 @@
 clear
 
 if [ "$1" == "" ]; then
-    VERSION="2.13.1"
+    VERSION="2.13.2"
 else
     VERSION="$1"
 fi
