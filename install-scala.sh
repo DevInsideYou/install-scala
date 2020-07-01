@@ -1,9 +1,12 @@
 #!/bin/bash
 
+# remove yourself
+rm $0
+
 clear
 
 if [ "$1" == "" ]; then
-    VERSION="2.13.2"
+    VERSION="2.13.3"
 else
     VERSION="$1"
 fi
@@ -25,8 +28,4 @@ sudo dpkg -i $TARGET
 rm $TARGET
 
 echo
-
 echo '"scala" is now on the path'
-
-# remove yourself
-rm $0
