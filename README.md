@@ -1,7 +1,7 @@
 ### Have these installed before you start:
 * [Coursier CLI](https://github.com/DevInsideYou/install-coursier-cli)
 
-# Installs [Scala](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/)
+# Installs [Scala REPL](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
 wget -q https://script.install.devinsideyou.com/scala-repl
