@@ -4,8 +4,8 @@
 # Installs [Scala](https://www.scala-lang.org/) on [Ubuntu](https://www.ubuntu.com/)
 
 ```bash
-wget -q https://script.install.devinsideyou.com/scala
-chmod +x scala && ./scala
+wget -q https://script.install.devinsideyou.com/scala-repl
+chmod +x scala-repl && ./scala-repl
 ```
 
 ### Runtime Dependencies:
